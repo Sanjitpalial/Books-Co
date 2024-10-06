@@ -4,7 +4,6 @@ Books & Co. is a full-featured e-commerce website for book lovers, allowing user
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
@@ -24,32 +23,6 @@ Books & Co. is a full-featured e-commerce website for book lovers, allowing user
 - **Order Tracking**: Track orders and view purchase history.
 - **Admin Dashboard**: Admins can manage books, inventory, and orders.
 - **Secure Checkout**: Integrated with secure payment methods.
-
----
-
-## Screenshots
-
-Here are some screenshots to help visualize the features of Books & Co.
-
-### Home Page
-
-![Home Page](C:\Users\sanji\OneDrive\Pictures\Screenshots\Screenshot 2024-05-14 225608.png)
-
-### Book Search
-
-![Search Results](./screenshots/search-results.png)
-
-### Book Details
-
-![Book Details](./screenshots/book-details.png)
-
-### Shopping Cart
-
-![Shopping Cart](./screenshots/shopping-cart.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ---
 
